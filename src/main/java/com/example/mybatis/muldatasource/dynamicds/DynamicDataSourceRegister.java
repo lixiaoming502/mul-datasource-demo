@@ -1,4 +1,4 @@
-package com.example.mybatis.muldatasource;
+package com.example.mybatis.muldatasource.dynamicds;
 
 import com.zaxxer.hikari.HikariDataSource;
 import org.slf4j.Logger;

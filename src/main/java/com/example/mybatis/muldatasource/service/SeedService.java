@@ -1,7 +1,7 @@
 package com.example.mybatis.muldatasource.service;
 
-import com.example.mybatis.muldatasource.TargetDataSource;
 import com.example.mybatis.muldatasource.dao.SeedMapper;
+import com.example.mybatis.muldatasource.dynamicds.TargetDataSource;
 import com.example.mybatis.muldatasource.model.Seed;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

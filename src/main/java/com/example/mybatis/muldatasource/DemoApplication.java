@@ -1,5 +1,6 @@
 package com.example.mybatis.muldatasource;
 
+import com.example.mybatis.muldatasource.dynamicds.DynamicDataSourceRegister;
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

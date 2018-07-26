@@ -1,4 +1,4 @@
-package com.example.mybatis.muldatasource;
+package com.example.mybatis.muldatasource.dynamicds;
 
 import org.springframework.jdbc.datasource.lookup.AbstractRoutingDataSource;
 

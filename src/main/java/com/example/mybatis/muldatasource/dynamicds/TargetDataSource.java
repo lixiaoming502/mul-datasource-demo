@@ -1,4 +1,4 @@
-package com.example.mybatis.muldatasource;
+package com.example.mybatis.muldatasource.dynamicds;
 
 import java.lang.annotation.*;
 

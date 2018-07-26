@@ -1,4 +1,4 @@
-package com.example.mybatis.muldatasource;
+package com.example.mybatis.muldatasource.dynamicds;
 
 import java.util.ArrayList;
 import java.util.List;
